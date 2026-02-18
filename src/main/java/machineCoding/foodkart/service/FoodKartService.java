@@ -1,7 +1,7 @@
 package machineCoding.foodkart.service;
 
 import machineCoding.foodkart.entities.Restaurant;
-import machineCoding.foodkart.strategy.RestaurantSelectionStrategy;
+import machineCoding.foodkart.service.restaurantSelectionStrategy.RestaurantSelectionStrategy;
 
 import java.util.List;
 import java.util.Map;

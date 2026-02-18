@@ -1,4 +1,4 @@
-package machineCoding.foodkart.strategy;
+package machineCoding.foodkart.service.restaurantSelectionStrategy;
 
 import machineCoding.foodkart.entities.Restaurant;
 
