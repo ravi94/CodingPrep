@@ -1,5 +1,16 @@
 package dsa.tree;
+import dsa.tree.TreeNode;
 
+/*               1
+                / \
+               2   3
+              / \   \
+             4   5   6
+
+Node A = 4, Node B = 6
+O/P : 4
+(Path: 4 → 2 → 1 → 3 → 6 = 4 edges)
+*/
 
 public class DistanceBetweenNodes {
 
@@ -49,8 +60,4 @@ public class DistanceBetweenNodes {
     }
 }
 
-class TreeNode {
-    int val;
-    TreeNode left, right;
-    TreeNode(int val) { this.val = val; }
-}
+

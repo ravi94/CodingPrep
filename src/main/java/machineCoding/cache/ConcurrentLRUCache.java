@@ -1,4 +1,4 @@
-package coding.retail;
+package machineCoding.cache;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.locks.Lock;

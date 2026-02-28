@@ -1,6 +1,6 @@
 package org.example.tdd;
 
-import coding.retail.ConcurrentLRUCache;
+import machineCoding.cache.ConcurrentLRUCache;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
