@@ -1,6 +1,6 @@
-package machineCoding.roomBooking;
+package machineCoding.roomMeetingBooking;
 
-import machineCoding.roomBooking.service.BookingManager;
+import machineCoding.roomMeetingBooking.service.BookingManager;
 
 public class BookRoomApp {
     public static void main(String[] args) {

@@ -1,9 +1,8 @@
-package machineCoding.roomBooking.entities;
+package machineCoding.roomMeetingBooking.entities;
 
 import lombok.Data;
 
 import java.util.*;
-import java.util.concurrent.ConcurrentSkipListMap;
 import java.util.concurrent.ConcurrentSkipListSet;
 import java.util.concurrent.locks.ReentrantLock;
 

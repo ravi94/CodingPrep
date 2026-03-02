@@ -1,4 +1,4 @@
-package machineCoding.roomBooking.entities;
+package machineCoding.roomMeetingBooking.entities;
 
 import lombok.Data;
 

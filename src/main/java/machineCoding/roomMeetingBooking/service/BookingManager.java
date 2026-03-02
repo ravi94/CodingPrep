@@ -1,6 +1,6 @@
-package machineCoding.roomBooking.service;
+package machineCoding.roomMeetingBooking.service;
 
-import machineCoding.roomBooking.entities.*;
+import machineCoding.roomMeetingBooking.entities.*;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
