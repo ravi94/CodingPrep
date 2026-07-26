@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew compileJava -q)",
+      "Bash(export JAVA_HOME=/Users/ravipc/Library/Java/JavaVirtualMachines/corretto-20.0.2.1/Contents/Home)",
+      "Bash(/Users/ravipc/Library/Java/JavaVirtualMachines/corretto-20.0.2.1/Contents/Home/bin/java -cp build/classes/java/main lld.parkingLot.ParkingLotDemo)"
+    ]
+  }
+}
